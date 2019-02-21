@@ -1,3 +1,10 @@
+# React-share-1
+
+React练习，参考官方中文文档：
+[https://react.docschina.org/docs/thinking-in-react.html](https://react.docschina.org/docs/thinking-in-react.html)
+
+新建分支完成练习，master分支已经创建好了基本代码。
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -5,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
-
+clone代码之后，直接运行npm start即可运行。
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
