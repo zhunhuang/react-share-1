@@ -7,12 +7,20 @@ React练习，参考官方中文文档：
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+
+## 1. 环境准备
+参考[http://note.youdao.com/noteshare?id=f3969cc14d259290682c594355740d3f](http://note.youdao.com/noteshare?id=f3969cc14d259290682c594355740d3f)
+前两步骤，本地安装node和create-react-app脚手架工具
+
+## 2. 可用脚本命令
 
 In the project directory, you can run:
 
 ### `npm start`
-clone代码之后，直接运行npm start即可运行。
+clone代码之后，先运行
+`npm install`下载项目依赖
+然后运行`npm start`即可运行。运行成功后，打开：
+[http://localhost:3000](http://localhost:3000)即可
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
