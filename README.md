@@ -20,9 +20,7 @@ In the project directory, you can run:
 clone代码之后，先运行
 `npm install`下载项目依赖
 然后运行`npm start`即可运行。运行成功后，打开：
-[http://localhost:3000](http://localhost:3000)即可
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[http://localhost:3000](http://localhost:3000)即可<br>
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
